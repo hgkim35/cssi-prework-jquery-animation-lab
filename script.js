@@ -24,6 +24,9 @@ function callback(){
 i<=3;
 console.log('Slide toggled i<= 3 times');
 }
+// this is definitely not correct, but I don't know? //
+
+
 //STRETCH add a new pig that flies away once the first pig has exited the screen.
 //(hint: You will have to put the animation of the second pig inside a callback function.)
 
