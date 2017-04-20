@@ -12,3 +12,6 @@ h1 {
   color: #FF3399;
 }
 /* change the img position style so that it actually moves*/
+#pig {
+  position: absolute;
+}
